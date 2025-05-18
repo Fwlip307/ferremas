@@ -1,0 +1,6 @@
+db.sqlite3
+venv/
+__pycache__/
+*.pyc
+ferremas2-frontend/node_modules/
+ferremas2-frontend/.env
